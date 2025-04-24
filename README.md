@@ -48,6 +48,7 @@ accurately identifying and sorting waste. Improved efficiency and effectiveness 
 collection and management processes, reducing environmental impact and promoting
 sustainability. Using this system waste collection and management will be easy since we
 don’t have to manually sort the wastages after being dumped in the dustbin.  
+
 Data Collection:
 For sorting and classification purposes, data collection focused on three main classes: Plastic,
 Metal, and Battery. To ensure diversity and representation, each class was sampled from two
