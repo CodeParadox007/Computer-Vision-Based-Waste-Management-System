@@ -1,5 +1,5 @@
 # Computer-Vision-Based-Waste-Management-System
-This project is under the Course No ECE 4102 and Title : Industrial and power electronics Sessional
+# # This project is under the Course No ECE 4102 and Title : Industrial and power electronics Sessional
 The project is Supervised by 
 Dr. Md. Shamim Ahsan
 Professor
