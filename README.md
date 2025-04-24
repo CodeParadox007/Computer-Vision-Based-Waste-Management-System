@@ -7,6 +7,12 @@ Professor,
 Electronics and Communication Engineering Discipline, 
 Khulna University,  Khulna, Bangladesh.
 
+# Project Video
+
+
+https://github.com/user-attachments/assets/c0cf5edc-4e62-46cd-a17f-f155f5729e0f
+
+
 # Objectives: 
 • Develop a computer vision-based system capable of accurately identifying and
 classifying various types of waste, including plastic, metal, wood, and others.  
