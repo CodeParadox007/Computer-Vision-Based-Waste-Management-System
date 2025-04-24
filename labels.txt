@@ -1,0 +1,4 @@
+0 Plastic
+1 Metal
+2 Battery
+3 Nothing
